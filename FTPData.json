@@ -1,0 +1,11 @@
+{
+  "IP": "127.0.0.1",
+  "DefaultIP": "0.0.0.0",
+  "Port": 21,
+  "AnonymousUserEnabled": true,
+  "DBUser": "Kamil",
+  "Password": "1",
+  "FTPRootDir": "C:\\Users\\kamil\\source\\repos\\Serwer_FTP\\FTPServer",
+  "TCPMin": 5000,
+  "TCPMax": 6000
+}
